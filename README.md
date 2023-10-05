@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnaincheema&label=Profile%20views&color=0e75b6&style=flat" alt="hussnaincheema" /> </p>
 
