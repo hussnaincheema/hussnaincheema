@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
-<p align="center">mern
-
-
+<p align="center">
 👋 Hi! I'm **Hussnain Cheema**, a frontend developer specializing in React.js and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
 
 I hold a Bachelor's degree in Software Engineering, which has provided me with a solid foundation in software development principles. Currently, I'm expanding my skillset by learning MERN stack to become a full-stack developer.
