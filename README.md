@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
 <p align="center">
-👋 Hi! I'm **Hussnain Cheema**, a frontend developer specializing in React.js and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
+👋 Hi! I'm <h1>Hussnain Cheema</h1>, a frontend developer specializing in React.js and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
 
 I hold a Bachelor's degree in Software Engineering, which has provided me with a solid foundation in software development principles. Currently, I'm expanding my skillset by learning MERN stack to become a full-stack developer.
 
 Here's what I'm good at:
 
+
 **Frontend Development:** React.js, React Native, HTML, CSS, JavaScript
+
 **Backend Development:** Learning Node.js, Express.js, MongoDB (MERN stack)
+
 **Problem-solving:** I enjoy tackling challenges and finding innovative solutions.
 I'm always eager to learn new technologies and contribute to exciting projects. If you're interested in collaborating or just want to connect, feel free to reach out!
 
 **Reach me on:**
 
+
 cheemahussnain155@gmail.com
+
 https://www.linkedin.com/in/hussnain-cheema-711016186/
 
 
