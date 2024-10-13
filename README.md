@@ -1,4 +1,5 @@
-![Uploading FIGMA.png…]()
+![FIGMA](https://github.com/user-attachments/assets/f4aead73-a4b6-4b49-8ad7-6a59295a1368)
+
 
 
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
