@@ -1,5 +1,4 @@
-![FIGMA](https://github.com/user-attachments/assets/f4aead73-a4b6-4b49-8ad7-6a59295a1368)
-
+https://github.com/user-attachments/assets/314d7491-24e0-4707-93fd-b65abdf46c12
 
 
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
