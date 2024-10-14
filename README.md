@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/314d7491-24e0-4707-93fd-b65abdf46c12
-
 
 <h1 align="center">Hi 👋, I'm Hussnain</h1>
 <p align="center">
