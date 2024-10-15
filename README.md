@@ -7,7 +7,7 @@ I hold a Bachelor's degree in Software Engineering, which has provided me with a
 **Here's what I'm good at:**
 
 
-**Frontend Development:** React.js, React Native, HTML, CSS, JavaScript
+**Frontend Development:** React.js, React Native, HTML, CSS, Tailwind, JavaScript, TypeScript, Next.js
 
 **Backend Development:** Learning Node.js, Express.js, MongoDB (MERN stack)
 
