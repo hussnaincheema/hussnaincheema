@@ -21,7 +21,7 @@ I'm always eager to learn new technologies and contribute to exciting projects. 
 
 **Gmail:** cheemahussnain155@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/hussnain-cheema-711016186/
+**Linkedin:** https://www.linkedin.com/in/hussnain-cheema/
 
 **Portfolio:**  https://hussnain-dev-portfolio.netlify.app/
 
