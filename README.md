@@ -23,9 +23,9 @@ I'm always eager to learn new technologies and contribute to exciting projects. 
 
 **Linkedin:** https://www.linkedin.com/in/hussnain-cheema/
 
-**Portfolio:**  https://hussnain-dev-portfolio.netlify.app/
+**Portfolio:**  https://hussnain-dev-portfolio.netlify.app/ 
 
-
+**CV:**  https://drive.google.com/file/d/1XMbKh_imAkGrU0LYvJwmMls48moL04AT/view?usp=drive_link
 
 
 </p>
