@@ -1,5 +1,7 @@
 ![Linkedin Background](https://github.com/user-attachments/assets/92f3a7e2-3cbc-48c9-a6d6-f07bae16e4fd)
-<h1 align="center">Hi 👋, I'm Hussnain</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hussnain+Cheema!;+I'm+Frontend+Developer;+I'm+Web+Developer;+I'm+App+Developer;" />
+</h1>
 <p align="center">
 👋 Hi! I'm Hussnain Cheema, a frontend developer specializing in React.js and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
 I hold a Bachelor's degree in Software Engineering, which has provided me with a solid foundation in software development principles. Currently, I'm expanding my skillset by learning MERN stack to become a full-stack developer.
