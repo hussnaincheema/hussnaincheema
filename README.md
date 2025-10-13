@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Hussnain+Cheema!;+I'm+Full+Stack+Developer;+I'm+Web+Developer;+I'm+App+Developer;" />
 </h1>
 <p align="center">
-👋 Hi! I'm Hussnain Cheema, a Full Stack Developer specializing in React, Express, Node, Mongodb and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
+👋 Hi! I'm Hussnain Cheema, a Full Stack (MERN) Developer specializing in React, Express, Node, Mongodb and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
 I hold a Bachelor's degree in Software Engineering, which has provided me with a solid foundation in software development principles.
 
 **Here's what I'm good at:**
@@ -11,7 +11,7 @@ I hold a Bachelor's degree in Software Engineering, which has provided me with a
 
 **Frontend Development:** React.js, React Native, HTML, CSS, Tailwind, JavaScript, TypeScript, Next.js
 
-**Backend Development:** Learning Node.js, Express.js, MongoDB (MERN stack)
+**Backend Development:** Node.js, Express.js, MongoDB (MERN stack)
 
 **Problem-solving:** I enjoy tackling challenges and finding innovative solutions.
 I'm always eager to learn new technologies and contribute to exciting projects. If you're interested in collaborating or just want to connect, feel free to reach out!
