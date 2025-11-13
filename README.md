@@ -27,7 +27,7 @@ I'm always eager to learn new technologies and contribute to exciting projects. 
 
 **Portfolio:**  https://hussnain-dev-portfolio.netlify.app/ 
 
-**CV:**  https://drive.google.com/file/d/1dociKetVP1_gf4uhCHBir2PqP8DivF-G/view?usp=drive_link
+**CV:**  https://drive.google.com/file/d/1MmyL5kd0WI5LIz4JZpiCzcWJR457IclQ/view
 
 
 </p>
