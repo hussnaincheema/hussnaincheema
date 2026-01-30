@@ -2,7 +2,8 @@
 
 🚀 **Building High-Performance Mobile Apps for Android & iOS**<br>
 🎯 **Expert in Debugging | Clean Code | Reusable Components**<br>
-📍 Based in Lahore, Pakistan | 🌍 Available for freelance projects
+📍 Based in **Lahore, Pakistan**<br>
+🌍 Available for **Freelance projects**
 
 ## 🚀 About Me
 
