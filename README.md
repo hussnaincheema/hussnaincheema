@@ -1,119 +1,119 @@
-![Linkedin Background](https://github.com/user-attachments/assets/92f3a7e2-3cbc-48c9-a6d6-f07bae16e4fd)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Hussnain+Cheema!;+I'm+Full+Stack+Developer;+I'm+Web+Developer;+I'm+App+Developer;" />
-</h1>
-<p align="center">
-👋 Hi! I'm Hussnain Cheema, a Full Stack (MERN) Developer specializing in React, Express, Node, Mongodb and React Native. I'm passionate about building user-friendly and engaging web and mobile applications.
-I hold a Bachelor's degree in Software Engineering, which has provided me with a solid foundation in software development principles.
+# 👋 Hi, I'm Hussnain Cheema
 
-**Here's what I'm good at:**
+**Full Stack (MERN) Developer | React Native Specialist**  
+📍 Based in Pakistan | 🌍 Available for freelance & remote opportunities
 
+## 🚀 About Me
 
-**Frontend Development:** React.js, React Native, HTML, CSS, Tailwind, JavaScript, TypeScript, Next.js
+I'm a passionate Full Stack Developer with expertise in **MERN stack** and **React Native**, holding a Bachelor's degree in Software Engineering. With a strong foundation in software development principles, I specialize in building scalable, high-performance web and mobile applications. I thrive on solving complex problems and transforming ideas into user-friendly digital experiences.
 
-**Backend Development:** Node.js, Express.js, MongoDB
+## 🛠️ Tech Stack & Expertise
 
-**Problem-solving:** I enjoy tackling challenges and finding innovative solutions.
-I'm always eager to learn new technologies and contribute to exciting projects. If you're interested in collaborating or just want to connect, feel free to reach out!
+### **Frontend Development**
+- **Web:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Mobile:** React Native (CLI & Expo)
+- **Styling:** Tailwind CSS, Sass, Bootstrap
+- **State Management:** Redux, Context API
+- **UI/UX Tools:** Figma, Adobe Illustrator, Photoshop
 
-**Reach me on:**
+### **Backend Development**
+- **Runtime:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, SQLite
+- **API Development:** RESTful APIs, GraphQL
+- **Authentication:** JWT, Firebase Auth, OAuth
 
+### **Mobile Development (React Native)**
+- **Navigation:** React Navigation, Expo Router
+- **State Management:** Redux Toolkit, TanStack Query
+- **Push Notifications:** Firebase Cloud Messaging (FCM)
+- **Payments:** Stripe Integration, In-app purchases
+- **Maps & Location:** Google Maps API, Mapbox
+- **Local Storage:** AsyncStorage, WatermelonDB
+- **Real-time Features:** Socket.IO, Agora (A/V calling)
 
-**Phone:** +923216447958
+### **DevOps & Tools**
+- **Version Control:** Git, GitHub (with proper branching strategies)
+- **CI/CD:** GitHub Actions, Expo Build
+- **Testing:** Jest, React Testing Library
+- **API Testing:** Postman
+- **Deployment:** Vercel, Netlify, Heroku, AWS
 
-**Gmail:** cheemahussnain155@gmail.com
+## 🌟 Featured Projects
 
-**Linkedin:** https://www.linkedin.com/in/hussnain-cheema/
+### **🖥️ Full Stack Projects**
+#### **E-Commerce Platform**  
+*Full-featured e-commerce solution with admin dashboard*  
+**Tech:** MERN Stack (MongoDB, Express, React, Node), Redux, Stripe, JWT Auth  
+**Features:** User authentication, product management, shopping cart, payment processing, admin dashboard
 
-**Portfolio:**  https://hussnain-dev-portfolio.netlify.app/ 
+#### **Task Management App**  
+*Collaborative project management tool*  
+**Tech:** React, Node.js, MongoDB, Socket.IO  
+**Features:** Real-time updates, team collaboration, file uploads, progress tracking
 
-**CV:**  https://drive.google.com/file/d/1MmyL5kd0WI5LIz4JZpiCzcWJR457IclQ/view
+### **📱 Mobile Applications**
+#### **Fitness Tracker App**  
+*Comprehensive fitness and nutrition tracking*  
+**Tech:** React Native, Firebase, Redux Toolkit  
+**Features:** Workout logging, meal tracking, progress charts, social features
 
+#### **Language Learning App**  
+*Interactive English learning platform*  
+**Tech:** React Native, MongoDB, Stripe  
+**Features:** Daily lessons, vocabulary builder, progress tracking, subscription model
 
-</p>
+## 💼 Work Experience
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnaincheema&label=Profile%20views&color=0e75b6&style=flat" alt="hussnaincheema" /> </p>
+### **Full Stack Developer** | *Current Position*  
+- Developing and maintaining full-stack web applications using MERN stack
+- Building cross-platform mobile applications with React Native
+- Implementing responsive designs and optimizing application performance
+- Collaborating with teams to deliver scalable solutions
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussnaincheema" alt="hussnaincheema" /></a> </p>
+### **Previous Experience**
+- **React Native Developer** – Developed production-ready mobile apps for Android & iOS
+- **Frontend Developer** – Created responsive web applications with modern frameworks
+- **Software Engineering Intern** – Gained hands-on experience in real-world projects
 
-- 💬 Ask me about **React, React Native**
+## 🎓 Education
+**Bachelor of Science in Software Engineering**  
+*[Your University Name]* – *[Graduation Year]*  
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering Principles
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hussnain-cheema/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hussnain-cheema/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/hussnaincheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hussnaincheema" height="30" width="40" /></a>
-</p>
+## 📈 GitHub Stats
+![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnaincheema&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnaincheema&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-</p>
+## 📚 Certifications & Learning
+- [List any relevant certifications here]
+- Currently learning: [Mention what you're currently learning]
+- Open to contributions in open-source projects
 
+## 🎯 What I Bring to Your Project
+- **Clean Code Architecture:** Emphasis on maintainable and scalable code
+- **Performance Optimization:** Focus on fast, efficient applications
+- **Reusable Components:** Modular approach for faster development
+- **Problem-Solving Skills:** Strong analytical abilities to tackle complex challenges
+- **Collaborative Mindset:** Experience working in team environments
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussnaincheema&show_icons=true&locale=en&layout=compact" alt="hussnaincheema" /></p>
+## 📫 Let's Connect & Collaborate!
+I'm always open to discussing new opportunities, interesting projects, or just chatting about technology!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussnaincheema&show_icons=true&locale=en" alt="hussnaincheema" /></p>
+📧 **Email:** cheemahussnain155@gmail.com  
+📱 **Phone:** +92 321 6447958  
+🔗 **LinkedIn:** [linkedin.com/in/hussnain-cheema](https://www.linkedin.com/in/hussnain-cheema/)  
+💼 **Portfolio:** [hussnain-dev-portfolio.netlify.app](https://hussnain-dev-portfolio.netlify.app/)  
+📄 **Resume:** [View My CV](https://drive.google.com/file/d/1MmyL5kd0WI5LIz4JZpiCzcWJR457IclQ/view)  
+🐙 **GitHub:** [github.com/hussnaincheema](https://github.com/hussnaincheema)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussnaincheema&" alt="hussnaincheema" /></p>
+## 🤝 Looking For
+- Freelance projects in web or mobile development
+- Full-time remote opportunities
+- Open-source contributions
+- Technical collaborations and knowledge sharing
+
+---
+
+⭐ *"From concept to deployment, I build solutions that make a difference."* ⭐
+
+[![Visitors](https://komarev.com/ghpvc/?username=hussnaincheema&color=blue&style=flat)](https://github.com/hussnaincheema)
