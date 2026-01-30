@@ -54,7 +54,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 *Workplace mental health & wellness platform for Android & iOS*  
 **Tech:** React Native, WebRTC, Push Notifications, Redux<br>
 **Features:** Video therapy sessions, Meditation library, Mood tracking, Secure chat, Progress analytics<br>
-**Status:** [Android](https://play.google.com/store/apps/details?id=com.plumm) | [IOS](https://apps.apple.com/in/app/plumm/id1604618955)
+**Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.plumm) | [IOS](https://apps.apple.com/in/app/plumm/id1604618955)
 
 ### **Baby App**  
 *Baby health & milestone tracking app for Android & iOS*  
