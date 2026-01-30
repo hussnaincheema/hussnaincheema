@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Hussnain Cheema
+# 👋 Hi, I'm Hussnain Cheema | React Native Developer
 
-**Full Stack (MERN) Developer | React Native Specialist**  
-📍 Based in Pakistan | 🌍 Available for freelance & remote opportunities
+🚀 **Building High-Performance Mobile Apps for Android & iOS**
+🎯 **Expert in Debugging | Clean Code | Reusable Components**
+📍 Based in Lahore, Pakistan | 🌍 Available for freelance projects
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in **MERN stack** and **React Native**, holding a Bachelor's degree in Software Engineering. With a strong foundation in software development principles, I specialize in building scalable, high-performance web and mobile applications. I thrive on solving complex problems and transforming ideas into user-friendly digital experiences.
+I’m a **React Native Developer** with over **2 years of experience**, specializing in creating **scalable**, **user-friendly**, and **efficient mobile applications**. My focus is on delivering high-quality solutions by crafting **reusable components**, **optimizing performance**, and implementing clean code architecture.
+
+If you’re looking for a **dedicated developer** who can turn your ideas into reality, you’re in the right place!
 
 ## 🛠️ Tech Stack & Expertise
 
-### **Frontend Development**
-- **Web:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Mobile:** React Native (CLI & Expo)
-- **Styling:** Tailwind CSS, Sass, Bootstrap
-- **State Management:** Redux, Context API
-- **UI/UX Tools:** Figma, Adobe Illustrator, Photoshop
+I leverage the latest technologies to create high-performance mobile apps for Android and iOS using the **React Native** framework. Below are the key technologies I work with:
 
-### **Backend Development**
-- **Runtime:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL, SQLite
-- **API Development:** RESTful APIs, GraphQL
-- **Authentication:** JWT, Firebase Auth, OAuth
+🛠️ **Core Technologies**
 
-### **Mobile Development (React Native)**
-- **Navigation:** React Navigation, Expo Router
-- **State Management:** Redux Toolkit, TanStack Query
-- **Push Notifications:** Firebase Cloud Messaging (FCM)
-- **Payments:** Stripe Integration, In-app purchases
-- **Maps & Location:** Google Maps API, Mapbox
-- **Local Storage:** AsyncStorage, WatermelonDB
-- **Real-time Features:** Socket.IO, Agora (A/V calling)
+**React Native:** (CLI, Expo, Expo Router)
+**Languages:** JavaScript, TypeScript
+**State Management:** Redux Toolkit (RTK Query), Context API
 
-### **DevOps & Tools**
-- **Version Control:** Git, GitHub (with proper branching strategies)
-- **CI/CD:** GitHub Actions, Expo Build
-- **Testing:** Jest, React Testing Library
-- **API Testing:** Postman
-- **Deployment:** Vercel, Netlify, Heroku, AWS
+⚙️ **Backend & Integrations**
+
+**Firebase:** (Auth)
+**Push Notifications:** FCM, OneSignal
+**Real-Time Communication:** Socket.IO, Action Cable (for chats, event-based gateways)
+**Payments & Subscriptions:** Stripe, In-app purchases
+**Conversational AI:** ChatGPT Integration
+
+🌍 **Maps & Location Services**
+
+**Map Services:** Google Maps
+
+💾 **Local Data Storage**
+
+**Database:** MongoDB (for high-performance offline-first apps)
+
+🧑‍💻 **Version Control & Collaboration**
+
+**Git & GitHub:** Proper branching strategies for code collaboration
+
+🧑‍💻 **Other Skills & Tools**
+
+**Debugging & Optimization:** Expertise in solving complex bugs, performance tuning, and clean architecture
+CI/CD Tools: GitHub Actions, Expo Build
 
 ## 🌟 Featured Projects
 
