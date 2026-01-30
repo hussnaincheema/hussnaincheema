@@ -46,7 +46,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 #### **Invoice Me App**  
 *Cross-platform billing solution for Android & iOS*<br>
-**Tech:** React Native, React Navigation, PayFast, PDF Generation
+**Tech:** React Native, React Navigation, PayFast, PDF Generation 
 **Features:** Invoice/Estimate creation, Client management, Payment processing, AI CFO Assistant  
 **Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.invoice.me&hl=es_419) 
 
@@ -64,7 +64,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 
 #### **Women Safety App**  
-*IPersonal safety & emergency alert app for Android & iOS*  
+*Personal safety & emergency alert app for Android & iOS*  
 **Tech:** React Native, Redux, React Navigation  
 **Features:** Emergency alerts, Contact management, Quick SOS, Location sharing, Fake call generator, Safety check-ins<br>
 **Status:** ✅ [Github](https://github.com/hussnaincheema/Women-Safety-App-React-Native) 
