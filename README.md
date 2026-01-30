@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hussnain Cheema | React Native Developer
 
-🚀 **Building High-Performance Mobile Apps for Android & iOS**
-🎯 **Expert in Debugging | Clean Code | Reusable Components**
+🚀 **Building High-Performance Mobile Apps for Android & iOS**<br>
+🎯 **Expert in Debugging | Clean Code | Reusable Components**<br>
 📍 Based in Lahore, Pakistan | 🌍 Available for freelance projects
 
 ## 🚀 About Me
