@@ -46,7 +46,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 #### **Invoice Me App**  
 *Cross-platform billing solution for Android & iOS*<br>
-**Tech:** React Native, React Navigation, PayFast, PDF Generation 
+**Tech:** React Native, React Navigation, PayFast, PDF Generation<br> 
 **Features:** Invoice/Estimate creation, Client management, Payment processing, AI CFO Assistant  
 **Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.invoice.me&hl=es_419) 
 
