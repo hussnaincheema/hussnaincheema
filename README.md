@@ -17,9 +17,9 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 🛠️ **Core Technologies**
 
-**React Native:** (CLI, Expo, Expo Router)
-**Languages:** JavaScript, TypeScript
-**State Management:** Redux Toolkit (RTK Query), Context API
+- **React Native:** (CLI, Expo, Expo Router)
+- **Languages:** JavaScript, TypeScript
+- **State Management:** Redux Toolkit (RTK Query), Context API
 
 ⚙️ **Backend & Integrations**
 
