@@ -38,10 +38,6 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 - **Map Services:** Google Maps
 
-💾 **Local Data Storage**
-
-- **Database:** MongoDB (for high-performance offline-first apps)
-
 🧑‍💻 **Version Control & Collaboration**
 
 - **Git & GitHub:** Proper branching strategies for code collaboration
@@ -49,28 +45,28 @@ I leverage the latest technologies to create high-performance mobile apps for An
 ## 🌟 Featured Projects
 
 #### **Invoice Me App**  
-*Cross-platform billing solution for Android & iOS*
-**Tech:** React Native, React Navigation, PayFast, PDF Generation  
-**Features:** Invoice/Estimate creation, Client management, Payment processing, AI CFO Assistant  
+*Cross-platform billing solution for Android & iOS*<br>
+**Tech:** React Native, React Navigation, PayFast, PDF Generation<br>  
+**Features:** Invoice/Estimate creation, Client management, Payment processing, AI CFO Assistant<br>  
 **Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.invoice.me&hl=es_419) 
 
 #### **Plumm App**  
-*Workplace mental health & wellness platform for Android & iOS*  
-**Tech:** React Native, WebRTC, Push Notifications, Redux
-**Features:** Video therapy sessions, Meditation library, Mood tracking, Secure chat, Progress analytics
+*Workplace mental health & wellness platform for Android & iOS*<br>  
+**Tech:** React Native, WebRTC, Push Notifications, Redux<br>
+**Features:** Video therapy sessions, Meditation library, Mood tracking, Secure chat, Progress analytics<br>
 **Status:** [Android](https://play.google.com/store/apps/details?id=com.plumm) | [IOS](https://apps.apple.com/in/app/plumm/id1604618955)
 
 ### **Baby App**  
-*Baby health & milestone tracking app for Android & iOS*  
-**Tech:** React Native, Redux, React Navigation  
-**Features:** Growth tracking, Milestone logging, Feeding schedules, Health monitoring, Progress charts
+*Baby health & milestone tracking app for Android & iOS*<br>  
+**Tech:** React Native, Redux, React Navigation<br>  
+**Features:** Growth tracking, Milestone logging, Feeding schedules, Health monitoring, Progress charts<br>
 **Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.baby_care) 
 
 
 #### **Women Safety App**  
-*IPersonal safety & emergency alert app for Android & iOS*  
-**Tech:** React Native, Redux, React Navigation  
-**Features:** Emergency alerts, Contact management, Quick SOS, Location sharing, Fake call generator, Safety check-ins
+*IPersonal safety & emergency alert app for Android & iOS*<br>  
+**Tech:** React Native, Redux, React Navigation<br>  
+**Features:** Emergency alerts, Contact management, Quick SOS, Location sharing, Fake call generator, Safety check-ins<br>
 **Status:** ✅ [Github](https://github.com/hussnaincheema/Women-Safety-App-React-Native) 
 
 
