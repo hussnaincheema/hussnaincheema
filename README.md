@@ -23,9 +23,13 @@ I leverage the latest technologies to create high-performance mobile apps for An
 ⚙️ **Backend & Integrations**
 
 **Firebase:** (Auth)
+
 **Push Notifications:** FCM, OneSignal
+
 **Real-Time Communication:** Socket.IO, Action Cable (for chats, event-based gateways)
+
 **Payments & Subscriptions:** Stripe, In-app purchases
+
 **Conversational AI:** ChatGPT Integration
 
 🌍 **Maps & Location Services**
