@@ -23,83 +23,77 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ⚙️ **Backend & Integrations**
 
-**Firebase:** (Auth)
+- **Firebase:** (Auth)
+- **Push Notifications:** FCM, OneSignal
+- **Real-Time Communication:** Socket.IO
+- **Payments & Subscriptions:** Stripe
+- **Conversational AI:** ChatGPT Integration
 
-**Push Notifications:** FCM, OneSignal
-
-**Real-Time Communication:** Socket.IO, Action Cable (for chats, event-based gateways)
-
-**Payments & Subscriptions:** Stripe, In-app purchases
-
-**Conversational AI:** ChatGPT Integration
+🚀 **Deployment & Distribution**
+- **Android Deployment:** Google Play Console, APK/AAB builds, Google Play Internal/Closed Testing
+- **iOS Deployment:** Apple App Store Connect, TestFlight (Beta Testing), Ad Hoc Distribution
+- **App Signing:** Android Keystores, iOS Certificates & Provisioning Profiles
 
 🌍 **Maps & Location Services**
 
-**Map Services:** Google Maps
+- **Map Services:** Google Maps
 
 💾 **Local Data Storage**
 
-**Database:** MongoDB (for high-performance offline-first apps)
+- **Database:** MongoDB (for high-performance offline-first apps)
 
 🧑‍💻 **Version Control & Collaboration**
 
-**Git & GitHub:** Proper branching strategies for code collaboration
-
-🧑‍💻 **Other Skills & Tools**
-
-**Debugging & Optimization:** Expertise in solving complex bugs, performance tuning, and clean architecture
-CI/CD Tools: GitHub Actions, Expo Build
+- **Git & GitHub:** Proper branching strategies for code collaboration
 
 ## 🌟 Featured Projects
 
-### **🖥️ Full Stack Projects**
-#### **E-Commerce Platform**  
-*Full-featured e-commerce solution with admin dashboard*  
-**Tech:** MERN Stack (MongoDB, Express, React, Node), Redux, Stripe, JWT Auth  
-**Features:** User authentication, product management, shopping cart, payment processing, admin dashboard
+#### **Invoice Me App**  
+*Cross-platform billing solution for Android & iOS*
+**Tech:** React Native, React Navigation, PayFast, PDF Generation  
+**Features:** Invoice/Estimate creation, Client management, Payment processing, AI CFO Assistant  
+**Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.invoice.me&hl=es_419) 
 
-#### **Task Management App**  
-*Collaborative project management tool*  
-**Tech:** React, Node.js, MongoDB, Socket.IO  
-**Features:** Real-time updates, team collaboration, file uploads, progress tracking
+#### **Plumm App**  
+*Workplace mental health & wellness platform for Android & iOS*  
+**Tech:** React Native, WebRTC, Push Notifications, Redux
+**Features:** Video therapy sessions, Meditation library, Mood tracking, Secure chat, Progress analytics
+**Status:** [Android](https://play.google.com/store/apps/details?id=com.plumm) | [IOS](https://apps.apple.com/in/app/plumm/id1604618955)
 
-### **📱 Mobile Applications**
-#### **Fitness Tracker App**  
-*Comprehensive fitness and nutrition tracking*  
-**Tech:** React Native, Firebase, Redux Toolkit  
-**Features:** Workout logging, meal tracking, progress charts, social features
+### **Baby App**  
+*Baby health & milestone tracking app for Android & iOS*  
+**Tech:** React Native, Redux, React Navigation  
+**Features:** Growth tracking, Milestone logging, Feeding schedules, Health monitoring, Progress charts
+**Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.baby_care) 
 
-#### **Language Learning App**  
-*Interactive English learning platform*  
-**Tech:** React Native, MongoDB, Stripe  
-**Features:** Daily lessons, vocabulary builder, progress tracking, subscription model
+
+#### **Women Safety App**  
+*IPersonal safety & emergency alert app for Android & iOS*  
+**Tech:** React Native, Redux, React Navigation  
+**Features:** Emergency alerts, Contact management, Quick SOS, Location sharing, Fake call generator, Safety check-ins
+**Status:** ✅ [Github](https://github.com/hussnaincheema/Women-Safety-App-React-Native) 
+
 
 ## 💼 Work Experience
 
-### **Full Stack Developer** | *Current Position*  
-- Developing and maintaining full-stack web applications using MERN stack
-- Building cross-platform mobile applications with React Native
+### **React Native Developer** | *SSQUARE PK (APR 2025-PRESENT)*  
+- Developed production-ready mobile apps for Android & iOS
 - Implementing responsive designs and optimizing application performance
 - Collaborating with teams to deliver scalable solutions
 
-### **Previous Experience**
-- **React Native Developer** – Developed production-ready mobile apps for Android & iOS
-- **Frontend Developer** – Created responsive web applications with modern frameworks
-- **Software Engineering Intern** – Gained hands-on experience in real-world projects
+### **Jr. React Native Developer** | *TWS (DEC 2024-APR 2025)*
+- Developed cross-platform mobile applications with React Native
+- Developed user interfaces based on design specifications
+- Integrated APIs into React Native Applications
+- Identified and resolved issues to enhance app performance
 
 ## 🎓 Education
 **Bachelor of Science in Software Engineering**  
-*[Your University Name]* – *[Graduation Year]*  
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering Principles
+*[University Of Gujrat]* – *[2018-2022]*  
+- Relevant Coursework: OOP, Data Structures & Algorithms, Database Systems, Software Engineering Principles 
 
-## 📈 GitHub Stats
-![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnaincheema&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnaincheema&layout=compact&theme=radical)
-
-## 📚 Certifications & Learning
-- [List any relevant certifications here]
-- Currently learning: [Mention what you're currently learning]
-- Open to contributions in open-source projects
+## 📚 Certifications 
+**React Native Development:** [Employee Of The Quarter](https://drive.google.com/file/d/1dOKEvciFuLsb19POt3V-yOtxyLWD_fdz/view?usp=drive_link)
 
 ## 🎯 What I Bring to Your Project
 - **Clean Code Architecture:** Emphasis on maintainable and scalable code
