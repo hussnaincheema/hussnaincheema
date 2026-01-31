@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a **React Native Developer** with over **2 years of experience**, specializing in creating **scalable**, **user-friendly**, and **efficient mobile applications**. My focus is on delivering high-quality solutions by crafting **reusable components**, **optimizing performance**, and implementing clean code architecture.
+I’m a **React Native Developer** with **2 years of experience**, specializing in creating **scalable**, **user-friendly**, and **efficient mobile applications**. My focus is on delivering high-quality solutions by crafting **reusable components**, **optimizing performance**, and implementing clean code architecture.
 
 If you’re looking for a **dedicated developer** who can turn your ideas into reality, you’re in the right place!
 
@@ -17,7 +17,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 🛠️ **Core Technologies**
 
-- **React Native:** (CLI, Expo, Expo Router)
+- **React Native:** (CLI, Expo)
 - **Languages:** JavaScript, TypeScript
 - **State Management:** Redux Toolkit (RTK Query), Context API
 
