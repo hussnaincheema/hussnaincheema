@@ -83,7 +83,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - Integrated APIs into React Native Applications
 - Identified and resolved issues to enhance app performance
 
-### **Jr. React Native Developer** | *Gaint Head, Gujrat, Pakistan (DEC 2024-APR 2025)*
+### **Jr. React Native Developer** | *Gaint Head, Gujrat, Pakistan (JAN 2024-OCT 2024)*
 - Worked as a React Native intern and junior developer, contributing to live production projects
 - Built and maintained cross-platform mobile applications using React Native
 - Developed responsive UI screens based on Figma and design specifications
