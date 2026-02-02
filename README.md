@@ -72,16 +72,25 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ## 💼 Work Experience
 
-### **React Native Developer** | *SSQUARE PK (APR 2025-PRESENT)*  
+### **React Native Developer** | *SSQUARE PK, Lahore, Pakistan (APR 2025-PRESENT)*  
 - Developed production-ready mobile apps for Android & iOS
 - Implementing responsive designs and optimizing application performance
 - Collaborating with teams to deliver scalable solutions
 
-### **Jr. React Native Developer** | *TWS (DEC 2024-APR 2025)*
+### **Jr. React Native Developer** | *TWS, Lahore, Pakistan (DEC 2024-APR 2025)*
 - Developed cross-platform mobile applications with React Native
 - Developed user interfaces based on design specifications
 - Integrated APIs into React Native Applications
 - Identified and resolved issues to enhance app performance
+
+### **Jr. React Native Developer** | *Gaint Head, Gujrat, Pakistan (DEC 2024-APR 2025)*
+- Worked as a React Native intern and junior developer, contributing to live production projects
+- Built and maintained cross-platform mobile applications using React Native
+- Developed responsive UI screens based on Figma and design specifications
+- Integrated REST APIs and handled dynamic data rendering
+- Identified, debugged, and resolved issues to improve app performance and stability
+- Collaborated with team members to deliver features within deadlines
+
 
 ## 🎓 Education
 **Bachelor of Science in Software Engineering**  
@@ -89,7 +98,8 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - Relevant Coursework: OOP, Data Structures & Algorithms, Database Systems, Software Engineering Principles 
 
 ## 📚 Certifications 
-**React Native Development:** [Employee Of The Quarter](https://drive.google.com/file/d/1dOKEvciFuLsb19POt3V-yOtxyLWD_fdz/view?usp=drive_link)
+**React Native Development:** 
+[Employee Of The Quarter](https://drive.google.com/file/d/1dOKEvciFuLsb19POt3V-yOtxyLWD_fdz/view?usp=drive_link)
 
 ## 🎯 What I Bring to Your Project
 - **Clean Code Architecture:** Emphasis on maintainable and scalable code
