@@ -95,7 +95,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 ## 🎓 Education
 **Bachelor of Science in Software Engineering**  
 *[University Of Gujrat]* – *[2018-2022]*  
-- Relevant Coursework: OOP, Data Structures & Algorithms, Database Systems, Software Engineering Principles 
+- Relevant Course: OOP, Data Structures & Algorithms, Database Systems, Software Engineering Principles 
 
 ## 📚 Certifications 
 **React Native Development:** 
