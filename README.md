@@ -80,13 +80,13 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - Optimized Lists and Screens using best practices to improve performance and memory usage
 - Collaborated closely with **designers**, **Backend Developers**, and **QA** teams to deliver **Scalable and Maintainable Solutions**
 
-     **Experience Certificate:** [View My Experience Certificate](https://drive.google.com/file/d/1aLk_Cmr364KIlpPv0nlDdgonoMlV_sJu/view)
-
 ### **Jr. React Native Developer** | *TWS, Lahore, Pakistan (DEC 2024-APR 2025)*
 - Developed cross-platform mobile applications with React Native
 - Developed user interfaces based on design specifications
 - Integrated APIs into React Native Applications
 - Identified and resolved issues to enhance app performance
+
+       **Experience Certificate:** [View My Experience Certificate](https://drive.google.com/file/d/1aLk_Cmr364KIlpPv0nlDdgonoMlV_sJu/view)
 
 ### **Jr. React Native Developer** | *Gaint Head, Gujrat, Pakistan (JAN 2024-OCT 2024)*
 - Worked as a React Native intern and junior developer, contributing to live production projects
