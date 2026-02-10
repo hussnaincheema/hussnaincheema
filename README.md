@@ -74,8 +74,11 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ### **React Native Developer** | *SSQUARE PK, Lahore, Pakistan (APR 2025-PRESENT)*  
 - Developed **production-ready React Native mobile applications** for both **Android** and **IOS** platforms
-- Implemented **Responsive UI designs** based on Figma designs and optimized application performance for smooth user experience
-- 
+- Implemented **Responsive UI designs** based on Figma designs and **optimized application performance** for smooth user experience
+- Integrated **REST APIs**, handled **authentication flows (login/logout, token management)**, and managed **app state** efficiently
+- Implemented key features such as **Push Notifications**, **Form Validations**, **Error Handling**, and **Conditional Navigation**
+- Optimized Lists and Screens using best practices to improve performance and memory usage
+- Collaborated closely with **designers**, **Backend Developers**, and **QA** teams to deliver **Scalable and Maintainable Solutions**
 
      **Experience Certificate:** [View My Experience Certificate](https://drive.google.com/file/d/1aLk_Cmr364KIlpPv0nlDdgonoMlV_sJu/view)
 
