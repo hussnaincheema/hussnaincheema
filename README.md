@@ -26,7 +26,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - **Firebase:** (Auth)
 - **Push Notifications:** FCM, OneSignal
 - **Real-Time Communication:** Socket.IO
-- **Payments & Subscriptions:** Stripe
+- **Payments & Subscriptions:** PayFast
 - **Conversational AI:** ChatGPT Integration
 
 🚀 **Deployment & Distribution**
