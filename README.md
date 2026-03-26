@@ -119,7 +119,7 @@ I'm always open to discussing new opportunities, interesting projects, or just c
 📧 **Email:** cheemahussnain155@gmail.com  
 📱 **Phone:** +92 321 6447958  
 🔗 **LinkedIn:** [linkedin.com/in/hussnain-cheema](https://www.linkedin.com/in/hussnain-cheema/)  
-💼 **Portfolio:** [hussnain-dev-portfolio.netlify.app](https://hussnain-dev-portfolio.netlify.app/)  
+💼 **Portfolio:** [hussnain-dev-portfolio.netlify.app](https://hussnain-cheema.vercel.app/)  
 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1WMElDGsTGH-ZMr-Uq53WO8xTIXia7Nge/view?usp=drive_link)  
 🐙 **GitHub:** [github.com/hussnaincheema](https://github.com/hussnaincheema)
 
