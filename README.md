@@ -120,7 +120,7 @@ I'm always open to discussing new opportunities, interesting projects, or just c
 📱 **Phone:** +92 321 6447958  
 🔗 **LinkedIn:** [linkedin.com/in/hussnain-cheema](https://www.linkedin.com/in/hussnain-cheema/)  
 💼 **Portfolio:** [hussnain-dev-portfolio.netlify.app](https://hussnain-dev-portfolio.netlify.app/)  
-📄 **Resume:** [View My CV](https://drive.google.com/file/d/1mnqc77ld841uDFCo4R_e2vxj3GslgmMm/view?usp=drive_link)  
+📄 **Resume:** [View My CV](https://drive.google.com/file/d/1WMElDGsTGH-ZMr-Uq53WO8xTIXia7Nge/view?usp=drive_link)  
 🐙 **GitHub:** [github.com/hussnaincheema](https://github.com/hussnaincheema)
 
 ## 🤝 Looking For
