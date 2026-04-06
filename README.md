@@ -56,7 +56,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 **Features:** Video therapy sessions, Meditation library, Mood tracking, Secure chat, Progress analytics<br>
 **Status:** ✅ [Android](https://play.google.com/store/apps/details?id=com.plumm) | [IOS](https://apps.apple.com/in/app/plumm/id1604618955)
 
-### **Baby App**  
+#### **Baby App**  
 *Baby health & milestone tracking app for Android & iOS*  
 **Tech:** React Native, Redux, React Navigation  
 **Features:** Growth tracking, Milestone logging, Feeding schedules, Health monitoring, Progress charts<br>
