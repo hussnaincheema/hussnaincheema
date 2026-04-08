@@ -27,6 +27,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - **Authentication:** Firebase Auth, JWT-based Auth
 - **Push Notifications:** FCM, OneSignal
 - **Real-Time Communication:** Socket.IO
+- **File Uploads:** Image/File Upload (Multipart/FormData)
 - **Payments & Subscriptions:** PayFast
 - **Conversational AI:** ChatGPT Integration
 
