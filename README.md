@@ -23,6 +23,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ⚙️ **Backend & Integrations**
 
+- **API Integration:** 
 - **Firebase:** (Auth)
 - **Push Notifications:** FCM, OneSignal
 - **Real-Time Communication:** Socket.IO
