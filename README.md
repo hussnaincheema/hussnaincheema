@@ -29,6 +29,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - **Real-Time Communication:** Socket.IO
 - **File Uploads:** Image/File Upload (Multipart/FormData)
 - **Local Storage:** AsyncStorage, Secure Storage
+- **Error Handling & Logging:** API Error Handling, Debugging
 - **Payments & Subscriptions:** PayFast
 - **Conversational AI:** ChatGPT Integration
 
