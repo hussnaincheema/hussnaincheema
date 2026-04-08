@@ -11,6 +11,15 @@ I’m a **React Native Developer** with **2 years of experience**, specializing 
 
 If you’re looking for a **dedicated developer** who can turn your ideas into reality, you’re in the right place!
 
+## 💡 Key Skills
+
+✔ Cross-Platform App Development (iOS & Android)  
+✔ API Integration (REST, GraphQL)  
+✔ Real-Time Apps (Socket.IO)  
+✔ Performance Optimization  
+✔ App Deployment (Play Store & App Store)  
+✔ Clean Architecture & Reusable Components  
+
 ## 🛠️ Tech Stack & Expertise
 
 I leverage the latest technologies to create high-performance mobile apps for Android and iOS using the **React Native** framework. Below are the key technologies I work with:
