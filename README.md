@@ -13,12 +13,12 @@ If you’re looking for a **dedicated developer** who can turn your ideas into r
 
 ## 💡 Key Skills
 
-✔ Cross-Platform App Development (iOS & Android)  
-✔ API Integration (REST, GraphQL)  
-✔ Real-Time Apps (Socket.IO)  
-✔ Performance Optimization  
-✔ App Deployment (Play Store & App Store)  
-✔ Clean Architecture & Reusable Components  
+- Cross-Platform App Development (iOS & Android)  
+- API Integration (REST, GraphQL)  
+- Real-Time Apps (Socket.IO)  
+- Performance Optimization  
+- App Deployment (Play Store & App Store)  
+- Clean Architecture & Reusable Components  
 
 ## 🛠️ Tech Stack & Expertise
 
