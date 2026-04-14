@@ -28,7 +28,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 - **React Native:** (CLI, Expo)
 - **Languages:** JavaScript, TypeScript
-- **State Management:** Redux, Context API
+- **State Management:** Redux, Context API, Graphql
 
 ⚙️ **Backend & Integrations**
 
