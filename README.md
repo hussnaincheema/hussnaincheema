@@ -120,7 +120,8 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ## 📚 Certifications 
 **React Native Development:** Honored as Employee of the Quarter for excellence in React Native development, successfully implementing critical features and optimizing application performance across key projects.
-[Employee Of The Quarter](https://drive.google.com/file/d/1dOKEvciFuLsb19POt3V-yOtxyLWD_fdz/view?usp=drive_link)
+
+  [Employee Of The Quarter](https://drive.google.com/file/d/1dOKEvciFuLsb19POt3V-yOtxyLWD_fdz/view?usp=drive_link)
 
 ## 🎯 What I Bring to Your Project
 - **Clean Code Architecture:** Emphasis on maintainable and scalable code
