@@ -13,7 +13,7 @@ If you’re looking for a **dedicated developer** who can turn your ideas into r
 
 ## 💡 Key Skills
 
-- Cross-Platform App Development (iOS & Android)  
+- Cross-Platform App Development (IOS & Android)  
 - API Integration (REST, GraphQL)  
 - Real-Time Apps (Socket.IO)  
 - Performance Optimization  
