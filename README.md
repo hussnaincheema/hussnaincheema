@@ -45,7 +45,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 🚀 **Deployment & Distribution**
 - **Android Deployment:** Google Play Console, APK/AAB builds, Google Play Internal/Closed Testing
 - **IOS Deployment:** Apple App Store Connect, TestFlight (Beta Testing), Ad Hoc Distribution
-- **App Signing:** Android Keystores, iOS Certificates & Provisioning Profiles
+- **App Signing:** Android Keystores, IOS Certificates & Provisioning Profiles
 
 🌍 **Maps & Location Services**
 
