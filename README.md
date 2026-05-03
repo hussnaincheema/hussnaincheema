@@ -22,7 +22,7 @@ If you’re looking for a **dedicated developer** who can turn your ideas into r
 
 ## 🛠️ Tech Stack & Expertise
 
-I leverage the latest technologies to create high-performance mobile apps for Android and iOS using the **React Native** framework. Below are the key technologies I work with:
+I leverage the latest technologies to create high-performance mobile apps for Android and IOS using the **React Native** framework. Below are the key technologies I work with:
 
 🛠️ **Core Technologies**
 
@@ -32,7 +32,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ⚙️ **Backend & Integrations**
 
-- **API Integration:** Fetch, Axios, React Query, GraphQL
+- **API Integration:** Fetch, AxIOS, React Query, GraphQL
 - **Authentication:** Firebase Auth, JWT-based Auth
 - **Push Notifications:** FCM, OneSignal
 - **Real-Time Communication:** Socket.IO
