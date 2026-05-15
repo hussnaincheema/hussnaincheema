@@ -39,7 +39,7 @@ I leverage the latest technologies to create high-performance mobile apps for An
 - **File Uploads:** Image/File Upload (Multipart/FormData)
 - **Local Storage:** AsyncStorage, Secure Storage
 - **Error Handling & Logging:** API Error Handling, Debugging
-- **Payments & Subscriptions:** PayFast
+- **Payments & Subscriptions:** Stripe, PayFast
 - **Conversational AI:** ChatGPT Integration
 
 🚀 **Deployment & Distribution**
