@@ -57,7 +57,6 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ## 📈 Currently Learning
 
-- SwiftUI (IOS Native Development)  
 - Backend Development (Node.js, Express, MongoDB)
 
 ## 🌟 Featured Projects
